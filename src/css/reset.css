@@ -1,0 +1,17 @@
+/* o * é ultilizado para colocar a formatação em todas as tags */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/*padding é para distanciamento entre bordas internas*/
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
